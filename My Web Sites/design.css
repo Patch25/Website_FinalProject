@@ -60,30 +60,8 @@ marquee{
  font-size: 25px;
  font-style: italic;
 }
-#AboutMe-btn{
-    background-color: rgb(178, 80, 205); 
-    padding: 10px 24px; 
-    cursor: pointer; 
-    width: 33%; 
-    float: left;
-    
-    
-}
-#Gallery-btn{
-    background-color: rgb(178, 80, 205); 
-    padding: 10px 24px; 
-    cursor: pointer; 
-    width: 33%; 
-    float: left;
-   
-}
-#Contacts-btn{
-    background-color: rgb(178, 80, 205); 
-    padding: 10px 24px; 
-    cursor: pointer; 
-    width: 33%; 
-    
-}
+
+  
 div.center{
     text-align: center;
 }
