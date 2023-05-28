@@ -62,8 +62,6 @@ marquee{
 }
 #AboutMe-btn{
     background-color: rgb(178, 80, 205); 
-    border: 1px solid white; 
-    color: whitesmoke; 
     padding: 10px 24px; 
     cursor: pointer; 
     width: 33%; 
@@ -73,8 +71,6 @@ marquee{
 }
 #Gallery-btn{
     background-color: rgb(178, 80, 205); 
-    border: 1px solid white; 
-    color: whitesmoke; 
     padding: 10px 24px; 
     cursor: pointer; 
     width: 33%; 
@@ -83,8 +79,6 @@ marquee{
 }
 #Contacts-btn{
     background-color: rgb(178, 80, 205); 
-    border: 1px solid white;
-    color: whitesmoke; 
     padding: 10px 24px; 
     cursor: pointer; 
     width: 33%; 
