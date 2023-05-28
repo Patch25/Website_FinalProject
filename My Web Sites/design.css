@@ -60,7 +60,36 @@ marquee{
  font-size: 25px;
  font-style: italic;
 }
-
+#AboutMe-btn{
+    background-color: rgb(178, 80, 205); 
+    border: 1px solid white; 
+    color: whitesmoke; 
+    padding: 10px 24px; 
+    cursor: pointer; 
+    width: 20%; 
+    float: center;
+    
+    
+}
+#Gallery-btn{
+    background-color: rgb(178, 80, 205); 
+    border: 1px solid white; 
+    color: whitesmoke; 
+    padding: 10px 24px; 
+    cursor: pointer; 
+    width: 20%; 
+    float: center;
+   
+}
+#Contacts-btn{
+    background-color: rgb(178, 80, 205); 
+    border: 1px solid white;
+    color: whitesmoke; 
+    padding: 10px 24px; 
+    cursor: pointer; 
+    width: 20%; 
+    float: center;
+    
   
 div.center{
     text-align: center;
