@@ -67,7 +67,7 @@ marquee{
     padding: 10px 24px; 
     cursor: pointer; 
     width: 20%; 
-    float: left;
+    float: Center;
     
     
 }
@@ -88,7 +88,7 @@ marquee{
     padding: 10px 24px; 
     cursor: pointer; 
     width: 20%; 
-    float: right;
+    float: center;
     
   
 div.center{
